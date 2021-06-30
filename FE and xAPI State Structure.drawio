@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T03:40:24.586Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="ReZvUwHmCVPG_Jnf5P49" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-30T03:40:39.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="RerNu6mucPij2l7BPrBT" version="14.7.9" type="github">
   <diagram id="SGdaD_TXG3CUPc7qYm1k" name="Page-1">
     <mxGraphModel dx="710" dy="-1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -406,9 +406,6 @@
         </mxCell>
         <mxCell id="o-3EE55-kmr8AlU0Wy5A-327" value="Taobao + Dummy SIM UAT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fontSize=16;fillColor=#f5f5f5;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="13" y="3135" width="210" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="o-3EE55-kmr8AlU0Wy5A-332" value="MNP subscriptionId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="50" y="2710" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o-3EE55-kmr8AlU0Wy5A-340" value="Pre-prod Stage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="335.5" y="2350" width="150" height="30" as="geometry" />
