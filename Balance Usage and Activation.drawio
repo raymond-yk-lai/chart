@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T09:13:30.460Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="IQaa8NUVcjprWcrsjmr_" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-26T08:07:15.091Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="FnvBGy4fz5oTfU0Wxt4s" version="15.8.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1186" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -94,6 +94,34 @@
         </mxCell>
         <mxCell id="x_L6baJEW3ozNsSyi7KQ-17" value="SOSIM 1 day pass is not a Daily Pass" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_L6baJEW3ozNsSyi7KQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_L6baJEW3ozNsSyi7KQ-18" target="x_L6baJEW3ozNsSyi7KQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_L6baJEW3ozNsSyi7KQ-23" value="If same Network" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x_L6baJEW3ozNsSyi7KQ-22">
+          <mxGeometry y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_L6baJEW3ozNsSyi7KQ-18" value="&lt;div&gt;highest network (5G&amp;gt;4.5G&amp;gt;4G)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1270" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_L6baJEW3ozNsSyi7KQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x_L6baJEW3ozNsSyi7KQ-20" target="x_L6baJEW3ozNsSyi7KQ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_L6baJEW3ozNsSyi7KQ-27" value="If same Speed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x_L6baJEW3ozNsSyi7KQ-26">
+          <mxGeometry x="0.26" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_L6baJEW3ozNsSyi7KQ-20" value="&lt;div&gt;&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;speed (Mbs)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1410" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_L6baJEW3ozNsSyi7KQ-21" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;balance end date&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1550" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_L6baJEW3ozNsSyi7KQ-30" value="&lt;span&gt;Usage Priority&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="1220" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
